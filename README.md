@@ -1,3 +1,3 @@
-# Electromagnetic Fields in One Mathematica Notebook
+# The Little EMF Notebook
 
 Work in Progress...
